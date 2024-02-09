@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(./assets/image.jpeg);
+    background-repeat: none;
+    background-size: cover;
+}
+
+.gatito{
+    width: 200px;
+    padding: 160px 0px 0px 610px;
+}
+
+p{
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px 0px 0px 535px;
+}
+
+.siono{
+    display: flex;
+    padding: 0px 0px 0px 570px;
+}
+
+.Yes{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    padding: 10px 20px;
+    background-color: rgb(252, 161, 176);
+    margin: 20px;
+}
+
+.No{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    padding: 10px 23px;
+    background-color: rgb(252, 161, 176);
+    margin: 20px;
+}
+
+.abracito{
+    width: 220px;
+    padding: 130px 0px 0px 600px;
+}
+
+.casa{
+    font-size: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 0px 0px 0px 550px;
+}
+
+.fecha{
+    font-size: 55px;
+    -webkit-text-stroke: 1px rgb(243, 80, 107);
+    color: transparent; 
+    color: rgb(247, 149, 166);
+    padding: 40px 0px 130px 320px;
+    font-family: 'Pixelify Sans', sans-serif;
+}
+
+.boton-inicio{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 7px 0px 0px 650px;
+    text-decoration: none;
+    margin: 300px 0px 0px 5px;
+    color: rgb(247, 149, 166);
+    -webkit-text-stroke: 1px rgb(243, 80, 107);
+}
